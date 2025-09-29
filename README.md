@@ -1,5 +1,6 @@
 # radio.garden-API-wrapper
 API wrapper for the live radio site radio.garden
+Wrapper endpoint https://radio-api-fast.vercel.app/
 
 # How to use the Radio Garden API
 
